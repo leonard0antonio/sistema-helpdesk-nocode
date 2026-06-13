@@ -1,5 +1,7 @@
 # 🛠️ Sistema de Help Desk Automatizado (No-Code)
 
+![Demo da aplicação](demo.png)
+
 Um sistema completo e automatizado de atendimento ao usuário (Help Desk) construído inteiramente com ferramentas no-code. Este projeto foi desenhado para otimizar fluxos operacionais, garantindo que os chamados sejam registrados, roteados e respondidos em segundos, sem intervenção manual.
 
 ## 🎯 Objetivo do Projeto
